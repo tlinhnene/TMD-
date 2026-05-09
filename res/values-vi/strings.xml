@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K234111E_ĐienThoai</string>
+    <string name="str_welcome">Chào mừng đến với K234111e</string>
+    <string name="str_clickme"> Bấm tôi đi</string>
+    <string name="str_login_title">Đăng nhập hệ thống</string>
+    <string name="str_username">"Tên đăng nhập  "</string>
+    <string name="str_enter_username">Nhâp tên người dùng</string>
+    <string name="str_password">Mật khẩu</string>
+    <string name="str_enter_password">Nhập mật khẩu</string>
+    <string name="str_login">Đăng nhập</string>
+    <string name="Exit">Thoát</string>
+    <string name="str_login_successful">Đăng nhập thành công</string>
+    <string name="str_login_failed">Sai tài khoản hoặc mật khẩu</string>
+    <string name="str_mc">MC</string>
+    <string name="str_mr">MR</string>
+    <string name="str_m_plus">M+</string>
+    <string name="str_m_minus">M-</string>
+    <string name="str_ms">MS</string>
+    <string name="str_m">M</string>
+</resources>
